@@ -89,11 +89,6 @@ Compiled with Adam optimizer and categorical cross-entropy. Input shape: (32, 32
 
 For detailed results, run the notebook and review the classification report and confusion matrix.
 
-## Improvements
-- Add more layers (e.g., deeper CNN like ResNet) for better accuracy.
-- Use transfer learning (e.g., MobileNetV2).
-- Handle class imbalance with weighted loss or oversampling.
-- Deploy as a web app using TensorFlow.js or Flask.
 
 ## License
 MIT License. Feel free to use, modify, and distribute.
